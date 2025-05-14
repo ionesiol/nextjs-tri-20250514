@@ -12,7 +12,7 @@ export default function HtmlGI() {
         <Button label="HTMLを生成" variant="secondary" navigateTo="./Settings" />
         <Button label="HTMLをダウンロード" variant="secondary" />
       </div>
-      <p>test</p>
+      <p>tes</p>
     </div>
   );
 }
